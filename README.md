@@ -1,6 +1,8 @@
 flask-sass
 ==========
 
+**This project is not maintained and abandoned. Feel free to fork.**
+
 A small Flask extension that makes it easy to use Sass (SCSS) with your Flask application.
 
 Why another one? Because [Flask-Scss](https://bitbucket.org/bcarlin/flask-scss) doesn't
